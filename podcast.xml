@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My Personal Podcast</title>
+    <link>https://csyuer.github.io/podcast/</link>
+    <description>My private audio feed hosted on GitHub Pages</description>
+    <language>zh-cn</language>
+
+    <!-- Episode 1 -->
+    <item>
+      <title>Episode 1</title>
+      <description>First test episode</description>
+      <enclosure 
+        url="https://csyuer.github.io/podcast/Call of Silence - 澤野弘之、Gemie.mp3"
+        type="audio/mpeg"
+        length="12345678"/>
+      <guid>ep1</guid>
+      <pubDate>Mon, 10 Feb 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <!-- Episode 2 -->
+    <item>
+      <title>Episode 2</title>
+      <description>Second episode</description>
+      <enclosure 
+        url="https://csyuer.github.io/podcast/ep2.mp3"
+        type="audio/mpeg"
+        length="22345678"/>
+      <guid>ep2</guid>
+      <pubDate>Tue, 11 Feb 2025 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
