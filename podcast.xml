@@ -3,31 +3,815 @@
   <channel>
     <title>My Personal Podcast</title>
     <link>https://csyuer.github.io/podcast/</link>
-    <description>My private audio feed hosted on GitHub Pages</description>
+    <description>Auto generated feed</description>
     <language>zh-cn</language>
 
-    <!-- Episode 1 -->
     <item>
-      <title>Episode 1</title>
-      <description>First test episode</description>
-      <enclosure 
-        url="https://csyuer.github.io/podcast/Call of Silence - 澤野弘之、Gemie.mp3"
-        type="audio/mpeg"
-        length="12345678"/>
-      <guid>ep1</guid>
-      <pubDate>Mon, 10 Feb 2025 10:00:00 GMT</pubDate>
+      <title>071 【大风歌】15登基称帝.m4a</title>
+      <description>071 【大风歌】15登基称帝.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/071 【大风歌】15登基称帝.m4a" length="15492264" type="audio/mpeg"/>
+      <guid>071 【大风歌】15登基称帝.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
     </item>
 
-    <!-- Episode 2 -->
     <item>
-      <title>Episode 2</title>
-      <description>Second episode</description>
-      <enclosure 
-        url="https://csyuer.github.io/podcast/ep2.mp3"
-        type="audio/mpeg"
-        length="22345678"/>
-      <guid>ep2</guid>
-      <pubDate>Tue, 11 Feb 2025 10:00:00 GMT</pubDate>
+      <title>072 【大风歌】16立仪定都.m4a</title>
+      <description>072 【大风歌】16立仪定都.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/072 【大风歌】16立仪定都.m4a" length="11583799" type="audio/mpeg"/>
+      <guid>072 【大风歌】16立仪定都.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>073 【大风歌】17汉初三杰.m4a</title>
+      <description>073 【大风歌】17汉初三杰.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/073 【大风歌】17汉初三杰.m4a" length="15860687" type="audio/mpeg"/>
+      <guid>073 【大风歌】17汉初三杰.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>074 【大风歌】18血性男儿.m4a</title>
+      <description>074 【大风歌】18血性男儿.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/074 【大风歌】18血性男儿.m4a" length="15678764" type="audio/mpeg"/>
+      <guid>074 【大风歌】18血性男儿.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>075 【大风歌】19冰火人生.m4a</title>
+      <description>075 【大风歌】19冰火人生.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/075 【大风歌】19冰火人生.m4a" length="15955014" type="audio/mpeg"/>
+      <guid>075 【大风歌】19冰火人生.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>076 【大风歌】20一升一降.m4a</title>
+      <description>076 【大风歌】20一升一降.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/076 【大风歌】20一升一降.m4a" length="15896120" type="audio/mpeg"/>
+      <guid>076 【大风歌】20一升一降.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>077 【大风歌】21分封之争.m4a</title>
+      <description>077 【大风歌】21分封之争.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/077 【大风歌】21分封之争.m4a" length="15835878" type="audio/mpeg"/>
+      <guid>077 【大风歌】21分封之争.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>078 【大风歌】22奇谋天才.m4a</title>
+      <description>078 【大风歌】22奇谋天才.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/078 【大风歌】22奇谋天才.m4a" length="13855295" type="audio/mpeg"/>
+      <guid>078 【大风歌】22奇谋天才.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>079 【大风歌】23臧否不一.m4a</title>
+      <description>079 【大风歌】23臧否不一.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/079 【大风歌】23臧否不一.m4a" length="15580735" type="audio/mpeg"/>
+      <guid>079 【大风歌】23臧否不一.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>080 【大风歌】24并峙双雄.m4a</title>
+      <description>080 【大风歌】24并峙双雄.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/080 【大风歌】24并峙双雄.m4a" length="15818393" type="audio/mpeg"/>
+      <guid>080 【大风歌】24并峙双雄.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>081 【大风歌】25吕氏英杰.m4a</title>
+      <description>081 【大风歌】25吕氏英杰.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/081 【大风歌】25吕氏英杰.m4a" length="12291703" type="audio/mpeg"/>
+      <guid>081 【大风歌】25吕氏英杰.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>082 【大风歌】26幸运之歌.m4a</title>
+      <description>082 【大风歌】26幸运之歌.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/082 【大风歌】26幸运之歌.m4a" length="15792199" type="audio/mpeg"/>
+      <guid>082 【大风歌】26幸运之歌.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>083 【大风歌】27谋圣受封.m4a</title>
+      <description>083 【大风歌】27谋圣受封.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/083 【大风歌】27谋圣受封.m4a" length="15861485" type="audio/mpeg"/>
+      <guid>083 【大风歌】27谋圣受封.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>084 【大风歌】28军功封侯.m4a</title>
+      <description>084 【大风歌】28军功封侯.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/084 【大风歌】28军功封侯.m4a" length="15659240" type="audio/mpeg"/>
+      <guid>084 【大风歌】28军功封侯.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>085 【大风歌】29第一功臣.m4a</title>
+      <description>085 【大风歌】29第一功臣.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/085 【大风歌】29第一功臣.m4a" length="15885268" type="audio/mpeg"/>
+      <guid>085 【大风歌】29第一功臣.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>086 【大风歌】30刘姓封王.m4a</title>
+      <description>086 【大风歌】30刘姓封王.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/086 【大风歌】30刘姓封王.m4a" length="16023962" type="audio/mpeg"/>
+      <guid>086 【大风歌】30刘姓封王.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>087 【大风歌】31太上皇帝.m4a</title>
+      <description>087 【大风歌】31太上皇帝.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/087 【大风歌】31太上皇帝.m4a" length="15386078" type="audio/mpeg"/>
+      <guid>087 【大风歌】31太上皇帝.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>088 【大风歌】32白登之围.m4a</title>
+      <description>088 【大风歌】32白登之围.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/088 【大风歌】32白登之围.m4a" length="15609908" type="audio/mpeg"/>
+      <guid>088 【大风歌】32白登之围.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>089 【大风歌】33爱子封王.m4a</title>
+      <description>089 【大风歌】33爱子封王.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/089 【大风歌】33爱子封王.m4a" length="16108125" type="audio/mpeg"/>
+      <guid>089 【大风歌】33爱子封王.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>090 【大风歌】34夺储之祸.m4a</title>
+      <description>090 【大风歌】34夺储之祸.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/090 【大风歌】34夺储之祸.m4a" length="15813911" type="audio/mpeg"/>
+      <guid>090 【大风歌】34夺储之祸.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>091 【大风歌】35封王之路.m4a</title>
+      <description>091 【大风歌】35封王之路.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/091 【大风歌】35封王之路.m4a" length="16043595" type="audio/mpeg"/>
+      <guid>091 【大风歌】35封王之路.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>092 【大风歌】36翁婿嫌隙.m4a</title>
+      <description>092 【大风歌】36翁婿嫌隙.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/092 【大风歌】36翁婿嫌隙.m4a" length="16016970" type="audio/mpeg"/>
+      <guid>092 【大风歌】36翁婿嫌隙.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>093 【大风歌】37成败萧何.m4a</title>
+      <description>093 【大风歌】37成败萧何.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/093 【大风歌】37成败萧何.m4a" length="15868118" type="audio/mpeg"/>
+      <guid>093 【大风歌】37成败萧何.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>094 【大风歌】38反乎冤乎.m4a</title>
+      <description>094 【大风歌】38反乎冤乎.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/094 【大风歌】38反乎冤乎.m4a" length="15818119" type="audio/mpeg"/>
+      <guid>094 【大风歌】38反乎冤乎.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>095 【大风歌】39死因之辩.m4a</title>
+      <description>095 【大风歌】39死因之辩.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/095 【大风歌】39死因之辩.m4a" length="15422013" type="audio/mpeg"/>
+      <guid>095 【大风歌】39死因之辩.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>096 【大风歌】40将星陨落.m4a</title>
+      <description>096 【大风歌】40将星陨落.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/096 【大风歌】40将星陨落.m4a" length="15748669" type="audio/mpeg"/>
+      <guid>096 【大风歌】40将星陨落.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>097 【大风歌】41高祖还乡.m4a</title>
+      <description>097 【大风歌】41高祖还乡.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/097 【大风歌】41高祖还乡.m4a" length="16446448" type="audio/mpeg"/>
+      <guid>097 【大风歌】41高祖还乡.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>098 【大风歌】42英雄末路.m4a</title>
+      <description>098 【大风歌】42英雄末路.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/098 【大风歌】42英雄末路.m4a" length="15427788" type="audio/mpeg"/>
+      <guid>098 【大风歌】42英雄末路.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>099 【大风歌】43自信人生.m4a</title>
+      <description>099 【大风歌】43自信人生.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/099 【大风歌】43自信人生.m4a" length="15506955" type="audio/mpeg"/>
+      <guid>099 【大风歌】43自信人生.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>100 【大风歌】44魅力四射.m4a</title>
+      <description>100 【大风歌】44魅力四射.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/100 【大风歌】44魅力四射.m4a" length="15990006" type="audio/mpeg"/>
+      <guid>100 【大风歌】44魅力四射.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>101 【大风歌】45用人有道.m4a</title>
+      <description>101 【大风歌】45用人有道.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/101 【大风歌】45用人有道.m4a" length="15124539" type="audio/mpeg"/>
+      <guid>101 【大风歌】45用人有道.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>102 【吕后】01吕后出嫁.m4a</title>
+      <description>102 【吕后】01吕后出嫁.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/102 【吕后】01吕后出嫁.m4a" length="20354851" type="audio/mpeg"/>
+      <guid>102 【吕后】01吕后出嫁.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>103 【吕后】02一桩疑案.m4a</title>
+      <description>103 【吕后】02一桩疑案.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/103 【吕后】02一桩疑案.m4a" length="20584498" type="audio/mpeg"/>
+      <guid>103 【吕后】02一桩疑案.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>104 【吕后】03初露峥嵘.m4a</title>
+      <description>104 【吕后】03初露峥嵘.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/104 【吕后】03初露峥嵘.m4a" length="20148906" type="audio/mpeg"/>
+      <guid>104 【吕后】03初露峥嵘.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>105 【吕后】04废立之争.m4a</title>
+      <description>105 【吕后】04废立之争.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/105 【吕后】04废立之争.m4a" length="20448023" type="audio/mpeg"/>
+      <guid>105 【吕后】04废立之争.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>106 【吕后】05废立之祸.m4a</title>
+      <description>106 【吕后】05废立之祸.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/106 【吕后】05废立之祸.m4a" length="20406785" type="audio/mpeg"/>
+      <guid>106 【吕后】05废立之祸.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>107 【吕后】06女主称制.m4a</title>
+      <description>107 【吕后】06女主称制.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/107 【吕后】06女主称制.m4a" length="20629817" type="audio/mpeg"/>
+      <guid>107 【吕后】06女主称制.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>108 【吕后】07皇子命运.m4a</title>
+      <description>108 【吕后】07皇子命运.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/108 【吕后】07皇子命运.m4a" length="20566340" type="audio/mpeg"/>
+      <guid>108 【吕后】07皇子命运.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>109 【吕后】08大封诸吕.m4a</title>
+      <description>109 【吕后】08大封诸吕.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/109 【吕后】08大封诸吕.m4a" length="20353701" type="audio/mpeg"/>
+      <guid>109 【吕后】08大封诸吕.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>110 【吕后】09和亲匈奴.m4a</title>
+      <description>110 【吕后】09和亲匈奴.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/110 【吕后】09和亲匈奴.m4a" length="20206010" type="audio/mpeg"/>
+      <guid>110 【吕后】09和亲匈奴.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>111 【吕后】10荡平诸吕.m4a</title>
+      <description>111 【吕后】10荡平诸吕.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/111 【吕后】10荡平诸吕.m4a" length="20600229" type="audio/mpeg"/>
+      <guid>111 【吕后】10荡平诸吕.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>112 【吕后】11功过是非.m4a</title>
+      <description>112 【吕后】11功过是非.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/112 【吕后】11功过是非.m4a" length="20828742" type="audio/mpeg"/>
+      <guid>112 【吕后】11功过是非.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>113 【文景之治】01盛世的序曲.m4a</title>
+      <description>113 【文景之治】01盛世的序曲.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/113 【文景之治】01盛世的序曲.m4a" length="19368689" type="audio/mpeg"/>
+      <guid>113 【文景之治】01盛世的序曲.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>114 【文景之治】02文帝即位.m4a</title>
+      <description>114 【文景之治】02文帝即位.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/114 【文景之治】02文帝即位.m4a" length="19623636" type="audio/mpeg"/>
+      <guid>114 【文景之治】02文帝即位.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>115 【文景之治】03破解南北挑战.m4a</title>
+      <description>115 【文景之治】03破解南北挑战.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/115 【文景之治】03破解南北挑战.m4a" length="20189435" type="audio/mpeg"/>
+      <guid>115 【文景之治】03破解南北挑战.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>116 【文景之治】04要有自己的力量.m4a</title>
+      <description>116 【文景之治】04要有自己的力量.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/116 【文景之治】04要有自己的力量.m4a" length="19941786" type="audio/mpeg"/>
+      <guid>116 【文景之治】04要有自己的力量.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>117 【文景之治】05一个天才的浮沉.m4a</title>
+      <description>117 【文景之治】05一个天才的浮沉.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/117 【文景之治】05一个天才的浮沉.m4a" length="20217026" type="audio/mpeg"/>
+      <guid>117 【文景之治】05一个天才的浮沉.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>118 【文景之治】06你是我的眼.m4a</title>
+      <description>118 【文景之治】06你是我的眼.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/118 【文景之治】06你是我的眼.m4a" length="19711714" type="audio/mpeg"/>
+      <guid>118 【文景之治】06你是我的眼.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>119 【文景之治】07有文又有武.m4a</title>
+      <description>119 【文景之治】07有文又有武.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/119 【文景之治】07有文又有武.m4a" length="19761563" type="audio/mpeg"/>
+      <guid>119 【文景之治】07有文又有武.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>120 【文景之治】08一个女人废了一部法.m4a</title>
+      <description>120 【文景之治】08一个女人废了一部法.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/120 【文景之治】08一个女人废了一部法.m4a" length="19348029" type="audio/mpeg"/>
+      <guid>120 【文景之治】08一个女人废了一部法.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>121 【文景之治】09重臣周勃.m4a</title>
+      <description>121 【文景之治】09重臣周勃.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/121 【文景之治】09重臣周勃.m4a" length="19367001" type="audio/mpeg"/>
+      <guid>121 【文景之治】09重臣周勃.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>122 【文景之治】10三个皇孙.m4a</title>
+      <description>122 【文景之治】10三个皇孙.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/122 【文景之治】10三个皇孙.m4a" length="19245553" type="audio/mpeg"/>
+      <guid>122 【文景之治】10三个皇孙.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>123 【文景之治】11兄弟之间.m4a</title>
+      <description>123 【文景之治】11兄弟之间.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/123 【文景之治】11兄弟之间.m4a" length="20454410" type="audio/mpeg"/>
+      <guid>123 【文景之治】11兄弟之间.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>124 【文景之治】12汉文帝的多面人生.m4a</title>
+      <description>124 【文景之治】12汉文帝的多面人生.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/124 【文景之治】12汉文帝的多面人生.m4a" length="19680303" type="audio/mpeg"/>
+      <guid>124 【文景之治】12汉文帝的多面人生.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>125 【文景之治】13机遇 还是机遇.m4a</title>
+      <description>125 【文景之治】13机遇 还是机遇.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/125 【文景之治】13机遇 还是机遇.m4a" length="19249567" type="audio/mpeg"/>
+      <guid>125 【文景之治】13机遇 还是机遇.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>126 【文景之治】14命案埋下的仇恨.m4a</title>
+      <description>126 【文景之治】14命案埋下的仇恨.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/126 【文景之治】14命案埋下的仇恨.m4a" length="19286592" type="audio/mpeg"/>
+      <guid>126 【文景之治】14命案埋下的仇恨.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>127 【文景之治】15吴楚七国之乱.m4a</title>
+      <description>127 【文景之治】15吴楚七国之乱.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/127 【文景之治】15吴楚七国之乱.m4a" length="19168810" type="audio/mpeg"/>
+      <guid>127 【文景之治】15吴楚七国之乱.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>128 【文景之治】16不得已的选择.m4a</title>
+      <description>128 【文景之治】16不得已的选择.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/128 【文景之治】16不得已的选择.m4a" length="19413292" type="audio/mpeg"/>
+      <guid>128 【文景之治】16不得已的选择.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>129 【文景之治】17三个月的战争.m4a</title>
+      <description>129 【文景之治】17三个月的战争.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/129 【文景之治】17三个月的战争.m4a" length="19475397" type="audio/mpeg"/>
+      <guid>129 【文景之治】17三个月的战争.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>130 【文景之治】18一场没有硝烟的暗战.m4a</title>
+      <description>130 【文景之治】18一场没有硝烟的暗战.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/130 【文景之治】18一场没有硝烟的暗战.m4a" length="18735819" type="audio/mpeg"/>
+      <guid>130 【文景之治】18一场没有硝烟的暗战.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>131 【文景之治】19该来的都来了.m4a</title>
+      <description>131 【文景之治】19该来的都来了.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/131 【文景之治】19该来的都来了.m4a" length="19011740" type="audio/mpeg"/>
+      <guid>131 【文景之治】19该来的都来了.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>132 【文景之治】20汉景帝的心思.m4a</title>
+      <description>132 【文景之治】20汉景帝的心思.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/132 【文景之治】20汉景帝的心思.m4a" length="19068310" type="audio/mpeg"/>
+      <guid>132 【文景之治】20汉景帝的心思.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>133 【汉武帝】1.m4a</title>
+      <description>133 【汉武帝】1.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/133 【汉武帝】1.m4a" length="18114845" type="audio/mpeg"/>
+      <guid>133 【汉武帝】1.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>134 【汉武帝】2.宫闱角逐.m4a</title>
+      <description>134 【汉武帝】2.宫闱角逐.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/134 【汉武帝】2.宫闱角逐.m4a" length="17860020" type="audio/mpeg"/>
+      <guid>134 【汉武帝】2.宫闱角逐.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>135 【汉武帝】3.立储风波.m4a</title>
+      <description>135 【汉武帝】3.立储风波.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/135 【汉武帝】3.立储风波.m4a" length="18243134" type="audio/mpeg"/>
+      <guid>135 【汉武帝】3.立储风波.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>136 【汉武帝】4.储君之争.m4a</title>
+      <description>136 【汉武帝】4.储君之争.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/136 【汉武帝】4.储君之争.m4a" length="17737758" type="audio/mpeg"/>
+      <guid>136 【汉武帝】4.储君之争.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>137 【汉武帝】5.继位太子.m4a</title>
+      <description>137 【汉武帝】5.继位太子.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/137 【汉武帝】5.继位太子.m4a" length="17402449" type="audio/mpeg"/>
+      <guid>137 【汉武帝】5.继位太子.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>138 【汉武帝】6.景帝清障.m4a</title>
+      <description>138 【汉武帝】6.景帝清障.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/138 【汉武帝】6.景帝清障.m4a" length="17561018" type="audio/mpeg"/>
+      <guid>138 【汉武帝】6.景帝清障.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>139 【汉武帝】7平安太子.m4a</title>
+      <description>139 【汉武帝】7平安太子.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/139 【汉武帝】7平安太子.m4a" length="17685237" type="audio/mpeg"/>
+      <guid>139 【汉武帝】7平安太子.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>140 【汉武帝】8董生对策.m4a</title>
+      <description>140 【汉武帝】8董生对策.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/140 【汉武帝】8董生对策.m4a" length="18135779" type="audio/mpeg"/>
+      <guid>140 【汉武帝】8董生对策.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>141 【汉武帝】9窦婴为相.m4a</title>
+      <description>141 【汉武帝】9窦婴为相.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/141 【汉武帝】9窦婴为相.m4a" length="18218575" type="audio/mpeg"/>
+      <guid>141 【汉武帝】9窦婴为相.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>142 【汉武帝】10.太后干政.m4a</title>
+      <description>142 【汉武帝】10.太后干政.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/142 【汉武帝】10.太后干政.m4a" length="18163727" type="audio/mpeg"/>
+      <guid>142 【汉武帝】10.太后干政.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>143 【汉武帝】11田窦交恶.m4a</title>
+      <description>143 【汉武帝】11田窦交恶.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/143 【汉武帝】11田窦交恶.m4a" length="18291221" type="audio/mpeg"/>
+      <guid>143 【汉武帝】11田窦交恶.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>144 【汉武帝】12窦婴之死.m4a</title>
+      <description>144 【汉武帝】12窦婴之死.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/144 【汉武帝】12窦婴之死.m4a" length="18209110" type="audio/mpeg"/>
+      <guid>144 【汉武帝】12窦婴之死.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>145 【汉武帝】13汉匈交兵.m4a</title>
+      <description>145 【汉武帝】13汉匈交兵.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/145 【汉武帝】13汉匈交兵.m4a" length="18386121" type="audio/mpeg"/>
+      <guid>145 【汉武帝】13汉匈交兵.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>146 【汉武帝】14马邑之谋.m4a</title>
+      <description>146 【汉武帝】14马邑之谋.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/146 【汉武帝】14马邑之谋.m4a" length="18420016" type="audio/mpeg"/>
+      <guid>146 【汉武帝】14马邑之谋.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>147 【汉武帝】15阿娇失势.m4a</title>
+      <description>147 【汉武帝】15阿娇失势.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/147 【汉武帝】15阿娇失势.m4a" length="18257046" type="audio/mpeg"/>
+      <guid>147 【汉武帝】15阿娇失势.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>148 【汉武帝】16初露锋芒.m4a</title>
+      <description>148 【汉武帝】16初露锋芒.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/148 【汉武帝】16初露锋芒.m4a" length="20418718" type="audio/mpeg"/>
+      <guid>148 【汉武帝】16初露锋芒.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>149 【汉武帝】17李广难封.m4a</title>
+      <description>149 【汉武帝】17李广难封.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/149 【汉武帝】17李广难封.m4a" length="18580599" type="audio/mpeg"/>
+      <guid>149 【汉武帝】17李广难封.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>150 【汉武帝】18公孙丞相.m4a</title>
+      <description>150 【汉武帝】18公孙丞相.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/150 【汉武帝】18公孙丞相.m4a" length="18126962" type="audio/mpeg"/>
+      <guid>150 【汉武帝】18公孙丞相.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>151 【汉武帝】19煽风点火.m4a</title>
+      <description>151 【汉武帝】19煽风点火.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/151 【汉武帝】19煽风点火.m4a" length="17531341" type="audio/mpeg"/>
+      <guid>151 【汉武帝】19煽风点火.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>152 【汉武帝】20借刀杀人.m4a</title>
+      <description>152 【汉武帝】20借刀杀人.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/152 【汉武帝】20借刀杀人.m4a" length="17719477" type="audio/mpeg"/>
+      <guid>152 【汉武帝】20借刀杀人.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>153 【汉武帝】21琴挑文君.m4a</title>
+      <description>153 【汉武帝】21琴挑文君.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/153 【汉武帝】21琴挑文君.m4a" length="18553549" type="audio/mpeg"/>
+      <guid>153 【汉武帝】21琴挑文君.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>154 【汉武帝】22情变之谜.m4a</title>
+      <description>154 【汉武帝】22情变之谜.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/154 【汉武帝】22情变之谜.m4a" length="18512702" type="audio/mpeg"/>
+      <guid>154 【汉武帝】22情变之谜.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>155 【汉武帝】23以死杀人.m4a</title>
+      <description>155 【汉武帝】23以死杀人.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/155 【汉武帝】23以死杀人.m4a" length="18615587" type="audio/mpeg"/>
+      <guid>155 【汉武帝】23以死杀人.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>156 【汉武帝】24童言无忌.m4a</title>
+      <description>156 【汉武帝】24童言无忌.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/156 【汉武帝】24童言无忌.m4a" length="18532869" type="audio/mpeg"/>
+      <guid>156 【汉武帝】24童言无忌.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>157 【汉武帝】25淮南大案.m4a</title>
+      <description>157 【汉武帝】25淮南大案.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/157 【汉武帝】25淮南大案.m4a" length="18576405" type="audio/mpeg"/>
+      <guid>157 【汉武帝】25淮南大案.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>158 【汉武帝】26皇室恩怨.m4a</title>
+      <description>158 【汉武帝】26皇室恩怨.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/158 【汉武帝】26皇室恩怨.m4a" length="18522532" type="audio/mpeg"/>
+      <guid>158 【汉武帝】26皇室恩怨.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>159 【汉武帝】27一错再错.m4a</title>
+      <description>159 【汉武帝】27一错再错.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/159 【汉武帝】27一错再错.m4a" length="18433240" type="audio/mpeg"/>
+      <guid>159 【汉武帝】27一错再错.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>160 【汉武帝】28另类奇才.m4a</title>
+      <description>160 【汉武帝】28另类奇才.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/160 【汉武帝】28另类奇才.m4a" length="18542127" type="audio/mpeg"/>
+      <guid>160 【汉武帝】28另类奇才.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>161 【汉武帝】29庐山真面.m4a</title>
+      <description>161 【汉武帝】29庐山真面.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/161 【汉武帝】29庐山真面.m4a" length="18415289" type="audio/mpeg"/>
+      <guid>161 【汉武帝】29庐山真面.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>162 【汉武帝】30一代将星.m4a</title>
+      <description>162 【汉武帝】30一代将星.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/162 【汉武帝】30一代将星.m4a" length="18382564" type="audio/mpeg"/>
+      <guid>162 【汉武帝】30一代将星.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>163 【汉武帝】31万石之家.m4a</title>
+      <description>163 【汉武帝】31万石之家.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/163 【汉武帝】31万石之家.m4a" length="18471317" type="audio/mpeg"/>
+      <guid>163 【汉武帝】31万石之家.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>164 【汉武帝】32宠信江充.m4a</title>
+      <description>164 【汉武帝】32宠信江充.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/164 【汉武帝】32宠信江充.m4a" length="18590394" type="audio/mpeg"/>
+      <guid>164 【汉武帝】32宠信江充.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>165 【汉武帝】33太子失宠.m4a</title>
+      <description>165 【汉武帝】33太子失宠.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/165 【汉武帝】33太子失宠.m4a" length="18514837" type="audio/mpeg"/>
+      <guid>165 【汉武帝】33太子失宠.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>166 【汉武帝】34巫蛊之祸.m4a</title>
+      <description>166 【汉武帝】34巫蛊之祸.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/166 【汉武帝】34巫蛊之祸.m4a" length="18481778" type="audio/mpeg"/>
+      <guid>166 【汉武帝】34巫蛊之祸.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>167 【汉武帝】35临终托孤.m4a</title>
+      <description>167 【汉武帝】35临终托孤.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/167 【汉武帝】35临终托孤.m4a" length="18519847" type="audio/mpeg"/>
+      <guid>167 【汉武帝】35临终托孤.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>168 【汉武帝】36千秋功过.m4a</title>
+      <description>168 【汉武帝】36千秋功过.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/168 【汉武帝】36千秋功过.m4a" length="22229032" type="audio/mpeg"/>
+      <guid>168 【汉武帝】36千秋功过.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>169 【汉武帝】37绝笔之作.m4a</title>
+      <description>169 【汉武帝】37绝笔之作.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/169 【汉武帝】37绝笔之作.m4a" length="22270884" type="audio/mpeg"/>
+      <guid>169 【汉武帝】37绝笔之作.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>170 【比干】比干之死.m4a</title>
+      <description>170 【比干】比干之死.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/170 【比干】比干之死.m4a" length="18381938" type="audio/mpeg"/>
+      <guid>170 【比干】比干之死.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>171 【比干】比干形象的经典化.m4a</title>
+      <description>171 【比干】比干形象的经典化.m4a</description>
+      <enclosure url="https://csyuer.github.io/podcast/171 【比干】比干形象的经典化.m4a" length="18848164" type="audio/mpeg"/>
+      <guid>171 【比干】比干形象的经典化.m4a</guid>
+      <pubDate>Wed, 19 Nov 2025 06:33:31 GMT</pubDate>
     </item>
 
   </channel>
