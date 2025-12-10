@@ -1,0 +1,11 @@
+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
+
+
+generate_podcast.py 用于生成podcast.xml文件
+
+
+删除本目录下已播放完的音频，将需要新增的音频移入本目录，执行：
+
+git add .
+git commit -m "Add audio files"
+git push
