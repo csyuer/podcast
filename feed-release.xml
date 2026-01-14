@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>我的个人播客 (Release版)</title>
+    <link>https://github.com/csyuer/podcast/releases/download/Audio/</link>
+    <description>使用 GitHub Releases 托管的大容量播客</description>
+    <itunes:author>Your Name</itunes:author>
+    <itunes:image href="https://csyuer.github.io/podcast/cover.jpg"/>
+    <language>zh-cn</language>
+    
+    <item>
+      <title>Counting Stars - OneRepublic.mp3</title>
+      <description>Counting Stars - OneRepublic.mp3</description>
+      <enclosure url="https://github.com/csyuer/podcast/releases/download/Audio/Counting Stars - OneRepublic.mp3" length="10485760" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/csyuer/podcast/releases/download/Audio/Counting Stars - OneRepublic.mp3</guid>
+      <pubDate>Wed, 14 Jan 2026 08:54:48 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>Enemy (from the series Arcane League of Legends) - Imagine Dragons_JID_双城之战_英雄联盟.mp3</title>
+      <description>Enemy (from the series Arcane League of Legends) - Imagine Dragons_JID_双城之战_英雄联盟.mp3</description>
+      <enclosure url="https://github.com/csyuer/podcast/releases/download/Audio/Enemy (from the series Arcane League of Legends) - Imagine Dragons_JID_双城之战_英雄联盟.mp3" length="10485760" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/csyuer/podcast/releases/download/Audio/Enemy (from the series Arcane League of Legends) - Imagine Dragons_JID_双城之战_英雄联盟.mp3</guid>
+      <pubDate>Wed, 14 Jan 2026 08:53:48 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
